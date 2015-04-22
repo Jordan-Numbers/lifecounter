@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lifecounter</string>
+
+    <string name="Starting_Life">20</string>
+
+    <string name="Player_1">Player 1</string>
+    <string name="Player_2">Player 2</string>
+    <string name="Player_3">Player 3</string>
+    <string name="Player_4">Player 4</string>
+
+    <string name="Gain_1">+1</string>
+    <string name="Gain_5">+5</string>
+    <string name="Lose_1">-1</string>
+    <string name="Lose_5">-5</string>
+
+    <color name="white">#FFD700</color>
+    <color name="blue">#0000ff</color>
+    <color name="black">#3f007f</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#3fbf00</color>
+    <string name="action_settings">Search</string>
+</resources>
